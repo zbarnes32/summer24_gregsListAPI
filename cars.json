@@ -1,0 +1,1432 @@
+[
+  {
+    "mileage": 16468,
+    "tags": [
+      "muscle",
+      "modern",
+      "hybrid",
+      "fast"
+    ],
+    "engineType": "V6",
+    "color": "red",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnsjHubtTpH6sp2ut0BT-e2pc20qpDoZLSq7n-nVryUw&s",
+    "price": 25000,
+    "description": "A reliable and fuel-efficient sedan.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc611bcfca9292deb57"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 1598,
+    "tags": [
+      "hybrid",
+      "electric",
+      "fast",
+      "muscle"
+    ],
+    "engineType": "V10",
+    "color": "red",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39bJHXb5AlMR9IgzypfIxpM90ZRbkZU6Jp7MbZasKsA&s",
+    "price": 22000,
+    "description": "A popular compact car known for its reliability.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc60095d81442394789"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 42874,
+    "tags": [
+      "modern",
+      "fast",
+      "cheap",
+      "hybrid"
+    ],
+    "engineType": "4-cylinder",
+    "color": "azure",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2020,
+    "imgUrl": "https://cdn.dlron.us/static/dealer-14949/2020-Ford-Mustang.jpg",
+    "price": 35000,
+    "description": "A classic American muscle car with powerful performance.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc69de38b2ccbd3c555"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 40052,
+    "tags": [
+      "electric",
+      "cheap",
+      "modern",
+      "hybrid"
+    ],
+    "engineType": "V8",
+    "color": "silver",
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "year": 2021,
+    "imgUrl": "https://di-uploads-pod32.dealerinspire.com/knoepflerchevy/uploads/2021/09/cruze-1.jpg",
+    "price": 23000,
+    "description": "A compact car with modern features.",
+    "creatorId": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc627c03dcdfd14d3cd"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 13834,
+    "tags": [
+      "muscle",
+      "cheap",
+      "hybrid",
+      "retro"
+    ],
+    "engineType": "unknown",
+    "color": "gray",
+    "make": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G95HMC6l2wY1OqPGvpciW_7-ls6ic-e_3KoRTz205A&s",
+    "price": 60000,
+    "description": "A luxury SUV with advanced technology.",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6c6ebb3facea2f866"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 19883,
+    "tags": [
+      "muscle",
+      "hybrid",
+      "cheap",
+      "electric"
+    ],
+    "engineType": "V6",
+    "color": "gray",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "imgUrl": "https://edgecast-img.yahoo.net/mysterio/api/BFB82642B57AD335B51942313BADB694CB9C57F23EA7EEDD34F55C08983E9999/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/os/ab/_cms/2020/11/11164321/F8A2999.jpg",
+    "price": 50000,
+    "description": "A stylish and elegant sedan.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6c577093dc9db4c4c"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 93242,
+    "tags": [
+      "retro",
+      "modern",
+      "hybrid",
+      "electric"
+    ],
+    "engineType": "V6",
+    "color": "green",
+    "make": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocTDtxKW7pxSb6n6LQ8Ohtx4aO7IVFy0YtaUOZUxU_Q&s",
+    "price": 45000,
+    "description": "A sporty and luxurious compact car.",
+    "creatorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc64c91f387d0ad9022"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 82165,
+    "tags": [
+      "muscle",
+      "retro",
+      "modern",
+      "cheap"
+    ],
+    "engineType": "V8",
+    "color": "yellow",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2021,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6LI0UP1Amw5FRjkzwHhy0VIfpIfcdVoYlWGxCMH3dA&s",
+    "price": 25000,
+    "description": "A versatile and practical hatchback.",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6c40ef932bc2c34f0"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 7838,
+    "tags": [
+      "modern",
+      "electric",
+      "retro",
+      "fast"
+    ],
+    "engineType": "unknown",
+    "color": "green",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2022,
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/2022-hyundai-elantra-mmp-1-1634851642.jpg?crop=0.859xw:0.644xh;0.0929xw,0.202xh&resize=1200:*",
+    "price": 24000,
+    "description": "A comfortable and feature-packed sedan.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc69fc9d6abd7d0f288"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 99881,
+    "tags": [
+      "fast",
+      "modern",
+      "retro",
+      "muscle"
+    ],
+    "engineType": "unknown",
+    "color": "white",
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2021,
+    "imgUrl": "https://fox59.com/wp-content/uploads/sites/21/2023/11/65577c63ab7443.02874408.jpg?w=640",
+    "price": 35000,
+    "description": "A spacious and family-friendly SUV.",
+    "creatorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc66e2f2db87c05a382"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 32719,
+    "tags": [
+      "hybrid",
+      "muscle",
+      "cheap",
+      "retro"
+    ],
+    "engineType": "V10",
+    "color": "red",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2022,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrp8Vs18px6_GX87pZy2Ec2RiAnIRvmaoj-yMjwMzSA&s",
+    "price": 26000,
+    "description": "A reliable and comfortable midsize sedan.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc682451e276207e7d5"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 122658,
+    "tags": [
+      "cheap",
+      "hybrid",
+      "electric",
+      "modern"
+    ],
+    "engineType": "unknown",
+    "color": "white",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2021,
+    "imgUrl": "https://s3.amazonaws.com/subarumedia.iconicweb.com/mediasite/libraryImages/21MY_Limited_3__mid.jpg",
+    "price": 32000,
+    "description": "A capable and versatile crossover.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6bc262f3b4839f0c2"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 183510,
+    "tags": [
+      "hybrid",
+      "retro",
+      "electric",
+      "muscle"
+    ],
+    "engineType": "4-cylinder",
+    "color": "green",
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "imgUrl": "https://www.mazda.ca/globalassets/mazda-canada/vehicles/2024/cx-5/2024-cx5-c22-hero-dt.jpg",
+    "price": 28000,
+    "description": "A stylish and fun-to-drive compact SUV.",
+    "creatorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc672ab53b595c82298"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 122285,
+    "tags": [
+      "electric",
+      "fast",
+      "muscle",
+      "cheap"
+    ],
+    "engineType": "V8",
+    "color": "yellow",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "imgUrl": "https://digitalassets-secure.tesla.com/image/upload/v1693327927/gg1gvbreec7fztq1qomv.jpg",
+    "price": 45000,
+    "description": "An electric car with impressive range and performance.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6b8e7ed7bfde7b317"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 48895,
+    "tags": [
+      "hybrid",
+      "modern",
+      "muscle",
+      "retro"
+    ],
+    "engineType": "4-cylinder",
+    "color": "yellow",
+    "make": "Lamborghini",
+    "model": "Aventador",
+    "year": 2021,
+    "imgUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/aventador/2023/02_09_refresh/aven_gate_01.jpg",
+    "price": 500000,
+    "description": "A high-performance supercar with stunning design.",
+    "creatorId": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6705ed410ef185fc5"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 5494,
+    "tags": [
+      "electric",
+      "cheap",
+      "modern",
+      "retro"
+    ],
+    "engineType": "4-cylinder",
+    "color": "red",
+    "make": "Porsche",
+    "model": "911",
+    "year": 1970,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Porsche_911E_ca_1969.jpg",
+    "price": 120000,
+    "description": "A legendary sports car with timeless appeal.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2022-09-01T10:00:00Z",
+    "_id": {
+      "$oid": "66142fc6a4483a72ae983627"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 80030,
+    "tags": [
+      "muscle",
+      "modern",
+      "hybrid",
+      "retro"
+    ],
+    "engineType": "V6",
+    "color": "yellow",
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2023,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmLGw0TWX_dT2fNgfsiYk7QETFZRn4P7FFGU-ZxBp8ww&s",
+    "price": 32000,
+    "description": "A comfortable and reliable midsize sedan.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "2023-02-12T12:20:00Z",
+    "updatedAt": "2023-02-13T16:30:00Z",
+    "_id": {
+      "$oid": "66142fc64e3e0dfda9761f3b"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 19133,
+    "tags": [
+      "fast",
+      "muscle",
+      "hybrid",
+      "cheap"
+    ],
+    "engineType": "V8",
+    "color": "gray",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2022,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8_KH3vnPCTFH58OgHLt9YmTYYWakLmV62KWJP9uEQQ&s",
+    "price": 30000,
+    "description": "A practical and fuel-efficient midsize sedan.",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2023-10-08T11:10:00Z",
+    "updatedAt": "2023-10-09T15:45:00Z",
+    "_id": {
+      "$oid": "66142fc6416a9277ee2f9dd6"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 67275,
+    "tags": [
+      "cheap",
+      "fast",
+      "muscle",
+      "hybrid"
+    ],
+    "engineType": "V10",
+    "color": "green",
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "imgUrl": "https://www.motortrend.com/uploads/2023/08/2024-Kia-Sportage-X-Pro-AWD-Prestige-front-view-29.jpg?fit=around%7C875:492",
+    "price": 35000,
+    "description": "A versatile and compact SUV with modern features.",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "2023-06-20T09:50:00Z",
+    "updatedAt": "2023-06-21T13:55:00Z",
+    "_id": {
+      "$oid": "66142fc68518c0e7ff6d2527"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 159862,
+    "tags": [
+      "electric",
+      "modern",
+      "cheap",
+      "retro"
+    ],
+    "engineType": "unknown",
+    "color": "gray",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2022,
+    "imgUrl": "https://static.cargurus.com/images/forsale/2023/04/28/13/42/2000_subaru_outback-pic-7371698739341560340-1024x768.jpeg",
+    "price": 40000,
+    "description": "A rugged and reliable crossover with all-wheel drive.",
+    "creatorId": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "createdAt": "2023-09-28T08:40:00Z",
+    "updatedAt": "2023-09-29T12:25:00Z",
+    "_id": {
+      "$oid": "66142fc60b09f25f5deb9b54"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 105357,
+    "tags": [
+      "hybrid",
+      "muscle",
+      "fast",
+      "modern"
+    ],
+    "engineType": "unknown",
+    "color": "gray",
+    "make": "Jeep",
+    "model": "Rubicon",
+    "year": 2023,
+    "imgUrl": "https://di-uploads-pod3.dealerinspire.com/saffordcjdrofwinchester/uploads/2022/10/ezgif.com-gif-maker-2022-10-05T113530.848.jpg",
+    "price": 45000,
+    "description": "An iconic off-road SUV with rugged capabilities.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2023-11-15T14:30:00Z",
+    "updatedAt": "2023-11-16T18:10:00Z",
+    "_id": {
+      "$oid": "66142fc613bff18ad19c294d"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 67523,
+    "tags": [
+      "hybrid",
+      "retro",
+      "modern",
+      "electric"
+    ],
+    "engineType": "V10",
+    "color": "white",
+    "make": "GMC",
+    "model": "Sierra",
+    "year": 2022,
+    "imgUrl": "https://storage.googleapis.com/www.savvydealer.com/new/GMC/Sierra/1500/2024/Features/2024-GMC-Sierra-1500-Exterior.jpg",
+    "price": 50000,
+    "description": "A powerful and capable full-size pickup truck.",
+    "creatorId": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "createdAt": "2023-04-02T09:20:00Z",
+    "updatedAt": "2023-04-03T13:35:00Z",
+    "_id": {
+      "$oid": "66142fc68226dc71d2fabab1"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 101049,
+    "tags": [
+      "modern",
+      "retro",
+      "fast",
+      "electric"
+    ],
+    "engineType": "V10",
+    "color": "black",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1965,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1965_Ford_Mustang_2D_Hardtop_Front.jpg/640px-1965_Ford_Mustang_2D_Hardtop_Front.jpg",
+    "price": 105000,
+    "description": "A classic American muscle car with modern features.",
+    "creatorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "createdAt": "2023-09-15T10:30:00Z",
+    "updatedAt": "2023-09-16T14:45:00Z",
+    "_id": {
+      "$oid": "66142fc6e7aab085bd621984"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 104009,
+    "tags": [
+      "hybrid",
+      "modern",
+      "electric",
+      "cheap"
+    ],
+    "engineType": "V8",
+    "color": "black",
+    "make": "Mazda",
+    "model": "Miata",
+    "year": 2005,
+    "imgUrl": "https://platform.cstatic-images.com/in/v2/stock_photos/26750f70-2228-4699-b132-f9419fb04b1e/be07ff0f-3d4a-42a1-8c49-eb1b5648d5b5.png",
+    "price": 80000,
+    "description": "Jeremy's car, I won't accept any offers.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "2022-11-20T09:15:00Z",
+    "updatedAt": "2022-11-21T13:20:00Z",
+    "_id": {
+      "$oid": "66142fc609cec690d1b9f6b4"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 141874,
+    "tags": [
+      "retro",
+      "modern",
+      "cheap",
+      "hybrid"
+    ],
+    "engineType": "V8",
+    "color": "green",
+    "make": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "imgUrl": "https://i.gaw.to/vehicles/photos/40/33/403362-2024-bmw-x5.jpg?640x400",
+    "price": 60000,
+    "description": "A versatile and spacious SUV with cutting-edge technology.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2024-01-10T14:00:00Z",
+    "updatedAt": "2024-01-11T18:30:00Z",
+    "_id": {
+      "$oid": "66142fc6461d4bb354d72226"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 121598,
+    "tags": [
+      "retro",
+      "modern",
+      "fast",
+      "cheap"
+    ],
+    "engineType": "V8",
+    "color": "green",
+    "make": "BMW",
+    "model": "Z3",
+    "year": 2022,
+    "imgUrl": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/07/16144447/BMW-Z3-Bond-Edition-Cars-and-Bids.jpg",
+    "price": 45000,
+    "description": "A crime stopping two door convertible. Look awesome while saving the world... again!",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-05-05T11:45:00Z",
+    "updatedAt": "2023-05-06T15:20:00Z",
+    "_id": {
+      "$oid": "66142fc624b74fd1fa151f98"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 59758,
+    "tags": [
+      "cheap",
+      "fast",
+      "retro",
+      "muscle"
+    ],
+    "engineType": "V6",
+    "color": "silver",
+    "make": "DMC",
+    "model": "DeLorean",
+    "year": 1981,
+    "imgUrl": "https://media.architecturaldigest.com/photos/56abee7645b074d074914c38/16:9/w_2560%2Cc_limit/back-to-the-futures-delorean-dmc-12-set-back-production-01.jpg",
+    "price": 30000,
+    "description": "It could be a time machine, Flux Capacitor not included.",
+    "creatorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    },
+    "createdAt": "2023-12-18T08:20:00Z",
+    "updatedAt": "2023-12-19T12:15:00Z",
+    "_id": {
+      "$oid": "66142fc6e82c6f90b5540627"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 77277,
+    "tags": [
+      "hybrid",
+      "retro",
+      "electric",
+      "modern"
+    ],
+    "engineType": "4-cylinder",
+    "color": "white",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 1968,
+    "imgUrl": "https://s3-prod.autonews.com/CCHISTORY_170809743_AR_0_PZIYWNGRMKOC.png",
+    "price": 40000,
+    "description": "A sporty and affordable muscle car.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-08-30T13:50:00Z",
+    "updatedAt": "2023-08-31T17:25:00Z",
+    "_id": {
+      "$oid": "66142fc6e7ae471b60b3fcf0"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 50784,
+    "tags": [
+      "modern",
+      "electric",
+      "fast",
+      "retro"
+    ],
+    "engineType": "unknown",
+    "color": "yellow",
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "imgUrl": "https://www.kbb.com/wp-content/uploads/2023/12/2024-honda-accord-hybrid-front-right-3qtr-4x3-1.jpg",
+    "price": 28000,
+    "description": "A reliable and fuel-efficient midsize sedan.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-11-25T09:40:00Z",
+    "updatedAt": "2023-11-26T12:55:00Z",
+    "_id": {
+      "$oid": "66142fc6bcdb8ae6120115cb"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 19773,
+    "tags": [
+      "modern",
+      "electric",
+      "muscle",
+      "hybrid"
+    ],
+    "engineType": "4-cylinder",
+    "color": "silver",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2022,
+    "imgUrl": "https://wieck-mbusa-production.s3.amazonaws.com/photos/71301cc0d7d0a07168b07300ec4f2b291afd3902/preview-928x522.jpg",
+    "price": 70000,
+    "description": "A luxurious and sophisticated executive sedan.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2023-07-10T10:00:00Z",
+    "updatedAt": "2023-07-11T14:05:00Z",
+    "_id": {
+      "$oid": "66142fc603aa0794585ccf23"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 53886,
+    "tags": [
+      "cheap",
+      "retro",
+      "fast",
+      "modern"
+    ],
+    "engineType": "V6",
+    "color": "silver",
+    "make": "Lexus",
+    "model": "RX",
+    "year": 2023,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniXhyNMaBTR-GypmPDHwYk9a5NYLwg_XYp4SXtlb2Qw&s",
+    "price": 55000,
+    "description": "A luxurious and spacious SUV with advanced features.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-04-05T15:30:00Z",
+    "updatedAt": "2023-04-06T18:45:00Z",
+    "_id": {
+      "$oid": "66142fc645d647b836d8296f"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 72978,
+    "tags": [
+      "retro",
+      "hybrid",
+      "muscle",
+      "fast"
+    ],
+    "engineType": "V8",
+    "color": "silver",
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmopXx0eHFQUJ778FMosunw5vg9wAXpdiipXusgf6pQ&s",
+    "price": 80000,
+    "description": "An electric luxury sedan with advanced autonomous driving capabilities.",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2022-11-20T09:15:00Z",
+    "updatedAt": "2022-11-21T13:20:00Z",
+    "_id": {
+      "$oid": "66142fc6153cf902f9641c88"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 155189,
+    "tags": [
+      "electric",
+      "muscle",
+      "hybrid",
+      "cheap"
+    ],
+    "engineType": "4-cylinder",
+    "color": "silver",
+    "make": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "imgUrl": "https://cdn.bmwblog.com/wp-content/uploads/2023/11/2024-BMW-X5-M60i-Ruby-Red-34.jpg",
+    "price": 60000,
+    "description": "A versatile and spacious SUV with cutting-edge technology.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2024-01-10T14:00:00Z",
+    "updatedAt": "2024-01-11T18:30:00Z",
+    "_id": {
+      "$oid": "66142fc6b6b8636b0e96b556"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 131378,
+    "tags": [
+      "muscle",
+      "modern",
+      "fast",
+      "electric"
+    ],
+    "engineType": "V8",
+    "color": "yellow",
+    "make": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "imgUrl": "https://di-uploads-pod3.s3.amazonaws.com/vindeversautohausofsylvania/uploads/2016/08/2017-Audi-A4-exterior-blog.jpg",
+    "price": 45000,
+    "description": "A stylish and performance-oriented luxury sedan.",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-05-05T11:45:00Z",
+    "updatedAt": "2023-05-06T15:20:00Z",
+    "_id": {
+      "$oid": "66142fc66644b28d4a5f4878"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 56517,
+    "tags": [
+      "fast",
+      "modern",
+      "electric",
+      "hybrid"
+    ],
+    "engineType": "4-cylinder",
+    "color": "silver",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2024,
+    "imgUrl": "https://media.ed.edmunds-media.com/toyota/camry-hybrid/2024/oem/2024_toyota_camry-hybrid_sedan_se-nightshade_fq_oem_1_1600.jpg",
+    "price": 30000,
+    "description": "A reliable and fuel-efficient midsize sedan.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2023-12-18T08:20:00Z",
+    "updatedAt": "2023-12-19T12:15:00Z",
+    "_id": {
+      "$oid": "66142fc694deeee82b7c3721"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 122774,
+    "tags": [
+      "fast",
+      "hybrid",
+      "muscle",
+      "modern"
+    ],
+    "engineType": "V10",
+    "color": "white",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2023,
+    "imgUrl": "https://www.motortrend.com/uploads/2022/10/17-2023-Chevrolet-Camaro-RS-Exterior.jpg?fit=around%7C875:492",
+    "price": 40000,
+    "description": "A sporty and affordable muscle car.",
+    "creatorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    },
+    "createdAt": "2023-08-30T13:50:00Z",
+    "updatedAt": "2023-08-31T17:25:00Z",
+    "_id": {
+      "$oid": "66142fc6eaff3fbc82f74d0e"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 168060,
+    "tags": [
+      "fast",
+      "electric",
+      "modern",
+      "muscle"
+    ],
+    "engineType": "V6",
+    "color": "red",
+    "make": "Honda",
+    "model": "Accord",
+    "year": 1985,
+    "imgUrl": "https://i.ytimg.com/vi/l6kkxEVCiUI/hqdefault.jpg",
+    "price": 2800,
+    "description": "A reliable and fuel-efficient midsize sedan.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2023-11-25T09:40:00Z",
+    "updatedAt": "2023-11-26T12:55:00Z",
+    "_id": {
+      "$oid": "66142fc67f3fb058cd2a6c88"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 150961,
+    "tags": [
+      "fast",
+      "modern",
+      "muscle",
+      "cheap"
+    ],
+    "engineType": "V6",
+    "color": "azure",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2022,
+    "imgUrl": "https://s3-prod.autonews.com/s3fs-public/styles/767xauto/public/2024%20Mercedes-Benz%20E-Class%201.jpg",
+    "price": 70000,
+    "description": "A luxurious and sophisticated executive sedan.",
+    "creatorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "createdAt": "2023-07-10T10:00:00Z",
+    "updatedAt": "2023-07-11T14:05:00Z",
+    "_id": {
+      "$oid": "66142fc62da3d84355fa2ba9"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 1296,
+    "tags": [
+      "muscle",
+      "retro",
+      "cheap",
+      "hybrid"
+    ],
+    "engineType": "4-cylinder",
+    "color": "silver",
+    "make": "Lexus",
+    "model": "RX",
+    "year": 2023,
+    "imgUrl": "https://i.ytimg.com/vi/cPo5Sc-41WE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAJQB16iat3clomPP6oUwPN4a8-Yg",
+    "price": 55000,
+    "description": "A luxurious and spacious SUV with advanced features.",
+    "creatorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    },
+    "createdAt": "2023-04-05T15:30:00Z",
+    "updatedAt": "2023-04-06T18:45:00Z",
+    "_id": {
+      "$oid": "66142fc663a19e6032bc73ff"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 8168,
+    "tags": [
+      "fast",
+      "retro",
+      "muscle",
+      "hybrid"
+    ],
+    "engineType": "4-cylinder",
+    "color": "red",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1985,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ID7_4ovLB1Xu6bGS6cGJO6BKZT8ZlVjHvnI_f8pKKg&s",
+    "price": 25000,
+    "description": "An iconic American muscle car.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "1985-06-15T09:30:00Z",
+    "updatedAt": "1985-06-16T12:45:00Z",
+    "_id": {
+      "$oid": "66142fc695306b94b474ba1a"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 109562,
+    "tags": [
+      "hybrid",
+      "muscle",
+      "cheap",
+      "electric"
+    ],
+    "engineType": "V6",
+    "color": "red",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 1986,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6nDHapDFahohJu5yhhX434ITqfRZD6phglMLSwI8Yg&s",
+    "price": 30000,
+    "description": "A classic American sports car.",
+    "creatorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "createdAt": "1986-03-20T11:00:00Z",
+    "updatedAt": "1986-03-21T14:15:00Z",
+    "_id": {
+      "$oid": "66142fc6f378937472160033"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 157697,
+    "tags": [
+      "electric",
+      "fast",
+      "modern",
+      "muscle"
+    ],
+    "engineType": "unknown",
+    "color": "yellow",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 1987,
+    "imgUrl": "https://cdn.motor1.com/images/mgl/rKKb29/s3/672_676121405.jpg",
+    "price": 15000,
+    "description": "A reliable and fuel-efficient limosuine.",
+    "creatorId": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    },
+    "createdAt": "1987-09-05T08:45:00Z",
+    "updatedAt": "1987-09-06T12:00:00Z",
+    "_id": {
+      "$oid": "66142fc6800020694b88b84d"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 54464,
+    "tags": [
+      "retro",
+      "muscle",
+      "hybrid",
+      "modern"
+    ],
+    "engineType": "V10",
+    "color": "silver",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 1988,
+    "imgUrl": "https://www.motortrend.com/uploads/f/119188757.jpg",
+    "price": 12000,
+    "description": "A compact and fuel-efficient car.",
+    "creatorId": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "createdAt": "1988-12-10T13:20:00Z",
+    "updatedAt": "1988-12-11T16:35:00Z",
+    "_id": {
+      "$oid": "66142fc61a47fc4fae46f004"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 88828,
+    "tags": [
+      "modern",
+      "cheap",
+      "electric",
+      "retro"
+    ],
+    "engineType": "V6",
+    "color": "azure",
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 1989,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/1st_Ford_Explorer_Eddie_Bauer.jpg",
+    "price": 18000,
+    "description": "A popular and versatile SUV.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "1989-07-15T10:30:00Z",
+    "updatedAt": "1989-07-16T13:45:00Z",
+    "_id": {
+      "$oid": "66142fc6219577050ad11eb2"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 5900,
+    "tags": [
+      "electric",
+      "hybrid",
+      "fast",
+      "cheap"
+    ],
+    "engineType": "unknown",
+    "color": "gray",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "year": 1990,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1y_6kcgs5DLCuk6tpZ2l-Rp8JR9y_he-GKxw9yu53XA&s",
+    "price": 20000,
+    "description": "A reliable and powerful pickup truck.",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "1990-04-20T12:00:00Z",
+    "updatedAt": "1990-04-21T15:15:00Z",
+    "_id": {
+      "$oid": "66142fc636a7e8fc3ee43c49"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 18732,
+    "tags": [
+      "electric",
+      "retro",
+      "fast",
+      "modern"
+    ],
+    "engineType": "unknown",
+    "color": "black",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 1991,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdrM92oa3lnKe5QpPxjgPvKz9xiEuW27wsaHyFhrJLA&s",
+    "price": 14000,
+    "description": "It's a car. It's a Toyota. It's a Corolla. What more do you need to know?",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "1991-11-25T14:40:00Z",
+    "updatedAt": "1991-11-26T17:55:00Z",
+    "_id": {
+      "$oid": "66142fc64d9b74c0ca74e5aa"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 71898,
+    "tags": [
+      "cheap",
+      "muscle",
+      "hybrid",
+      "retro"
+    ],
+    "engineType": "4-cylinder",
+    "color": "yellow",
+    "make": "Honda",
+    "model": "Accord",
+    "year": 1992,
+    "imgUrl": "https://images.fitmentindustries.com/web-compressed/486550-1-1992-accord-honda-lx-fortune-auto-coilovers-esr-sr05-machined.jpg",
+    "price": 16000,
+    "description": "A tripped out sick ride. for the low low price of $16,000.00 you can be the coolest kid on the block. Get your hands on this 8 second car!",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "1992-09-30T15:50:00Z",
+    "updatedAt": "1992-10-01T19:05:00Z",
+    "_id": {
+      "$oid": "66142fc688c5664db4875187"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 7987,
+    "tags": [
+      "hybrid",
+      "fast",
+      "electric",
+      "retro"
+    ],
+    "engineType": "unknown",
+    "color": "white",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1993,
+    "imgUrl": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3f10cd20db8e894c54c6933229c2c29c.jpg",
+    "price": 18000,
+    "description": "It's been a great car for me. I've had it for 30 years and it's still running strong. I'm selling it because I'm moving to a new city and won't need a car anymore. It's in good condition and has been well-maintained. It has a few scratches and dents, but nothing major. It has a clean title and has never been in an accident. It has a V6 engine and gets good gas mileage. It has power windows, power locks, and a CD player. It's a great car for commuting or road trips. I'm asking $18,000 or best offer. If you're interested, please contact me to schedule a test drive. Thanks for looking!",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "1993-06-05T16:10:00Z",
+    "updatedAt": "1993-06-06T19:25:00Z",
+    "_id": {
+      "$oid": "66142fc62511b8ee8a953cf3"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 42571,
+    "tags": [
+      "cheap",
+      "hybrid",
+      "modern",
+      "retro"
+    ],
+    "engineType": "unknown",
+    "color": "red",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": 1994,
+    "imgUrl": "https://s3.wheelsage.org/format/picture/picture-thumb-medium/c/chevrolet/tahoe/chevrolet_tahoe_16_006b0000089d067b.jpg",
+    "price": 22000,
+    "description": "A spacious and versatile SUV with a powerful V8 engine. Great for family trips or off-road adventures.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "1994-03-15T17:30:00Z",
+    "updatedAt": "1994-03-16T20:45:00Z",
+    "_id": {
+      "$oid": "66142fc636290d4130075f1f"
+    },
+    "hasCleanTitle": false
+  },
+  {
+    "mileage": 2110,
+    "tags": [
+      "fast",
+      "modern",
+      "muscle",
+      "electric"
+    ],
+    "engineType": "V10",
+    "color": "red",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 1995,
+    "imgUrl": "https://carfax-img.vast.com/carfax/v2/6137810615583903679/1/344x258",
+    "price": 16000,
+    "description": "This car will get you from here to there and back again. It's a Toyota, so you know it's reliable. It has a V6 engine and gets good gas mileage. It has power windows, power locks, and a CD player!!!",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "1995-12-20T18:50:00Z",
+    "updatedAt": "1995-12-21T22:05:00Z",
+    "_id": {
+      "$oid": "66142fc60513639d21d0ffcc"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 11619,
+    "tags": [
+      "hybrid",
+      "fast",
+      "muscle",
+      "modern"
+    ],
+    "engineType": "V10",
+    "color": "white",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 1997,
+    "imgUrl": "https://www.ebaymotorsblog.com/motors/blog/wp-content/uploads/2023/02/1997_Honda_Civic_Type_R_left_side-e1676409818808.jpg",
+    "price": 14000,
+    "description": "This JDM 1997 Honda Civic Type R is a rare find. It's in great condition and has been well-maintained. It has a 1.6L VTEC engine that produces 185 hp and 118 lb-ft of torque. It has a 5-speed manual transmission and front-wheel drive. It has a clean title and has never been in an accident. It's a fun and sporty car to drive.",
+    "creatorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    },
+    "createdAt": "1996-09-10T19:10:00Z",
+    "updatedAt": "1996-09-11T22:25:00Z",
+    "_id": {
+      "$oid": "66142fc6ad4b4364056ef0b4"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 146334,
+    "tags": [
+      "fast",
+      "modern",
+      "electric",
+      "cheap"
+    ],
+    "engineType": "unknown",
+    "color": "white",
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 1997,
+    "imgUrl": "https://media.ed.edmunds-media.com/ford/explorer/1997/oem/1997_ford_explorer_4dr-suv_eddie-bauer_fq_oem_1_500.jpg",
+    "price": 18000,
+    "description": "What a great car to show off at the PTA meetings. It's a Ford Explorer, that you can take to the grocery store, or the soccer field. It's a great car for the family. I even take mine to the golf range!",
+    "creatorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "createdAt": "1997-07-25T20:30:00Z",
+    "updatedAt": "1997-07-26T23:45:00Z",
+    "_id": {
+      "$oid": "66142fc655d7e9a687bc9a7c"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 56321,
+    "tags": [
+      "cheap",
+      "modern",
+      "retro",
+      "fast"
+    ],
+    "engineType": "V8",
+    "color": "green",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "year": 1998,
+    "imgUrl": "https://journal.classiccars.com/media/2023/07/k1500.jpg",
+    "price": 20000,
+    "description": "This truck can fit a full sheet of plywood in the bed. It's tough and reliable. It has a V8 engine and 4-wheel drive. It's a great truck for work or play. Come give it a whirl!",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "1998-04-30T21:50:00Z",
+    "updatedAt": "1998-05-01T01:05:00Z",
+    "_id": {
+      "$oid": "66142fc6fa2fe3a6936d9668"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 184207,
+    "tags": [
+      "hybrid",
+      "modern",
+      "electric",
+      "retro"
+    ],
+    "engineType": "V10",
+    "color": "azure",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 1999,
+    "imgUrl": "https://external-preview.redd.it/C2cg1JIOCjlezsKT9gvkYyX-DOuMdK1y99XYs_NIe-I.jpg?format=pjpg&auto=webp&s=8fb2c196e0b84b2b1a73a488b57ad6df87ee8e27",
+    "price": 16000,
+    "description": "It probably still drives. But I found it under a tarp in my backyard. I'm not sure how it got there. I don't remember buying it. But it's yours for $16,000.00. I'll even throw in the tarp. Good luck finding its keys.",
+    "creatorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "createdAt": "1999-11-15T22:10:00Z",
+    "updatedAt": "1999-11-16T01:25:00Z",
+    "_id": {
+      "$oid": "66142fc6c746078ad0543391"
+    },
+    "hasCleanTitle": true
+  },
+  {
+    "mileage": 179428,
+    "tags": [
+      "electric",
+      "fast",
+      "retro",
+      "modern"
+    ],
+    "engineType": "V6",
+    "color": "yellow",
+    "make": "Jeep",
+    "model": "Wagoneer",
+    "year": 2000,
+    "imgUrl": "https://blog.consumerguide.com/wp-content/uploads/sites/2/2013/04/Screen-Shot-2017-03-30-at-11.24.32-AM.png",
+    "price": 18000,
+    "description": "This Jeep Wagoneer is a classic. It's in great condition and has been well-maintained. I like to park it on the lawn and watch the admirers drive by.",
+    "creatorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "createdAt": "2000-09-30T23:30:00Z",
+    "updatedAt": "2000-10-01T02:45:00Z",
+    "_id": {
+      "$oid": "66142fc6053b7d88c2623a95"
+    },
+    "hasCleanTitle": false
+  }
+]
